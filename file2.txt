@@ -1,1 +1,2 @@
 its a new file and its file2.txt
+i am adding some content to it
